@@ -20,6 +20,4 @@
 
 ## 📂 Δομή του Repository
 *`/WikiViewerApp`: Ο πηγαίος κώδικας του project στο NetBeans.  
-*`/documents`: Έγγραφα διαχείρισης έργου (Backlog, Χρονοδιάγραμμα) και διαγράμματα (ER, Class Diagrams).  
-*`/database`: Το script δημιουργίας και τα αρχεία της βάσης Derby.  
-*`/javadoc`: Αυτόματα παραγόμενη τεκμηρίωση.  
+*`/documents`: Έγγραφα διαχείρισης έργου (Backlog, Χρονοδιάγραμμα) και διαγράμματα (ER, Class Diagrams). 
